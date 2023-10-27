@@ -8,6 +8,8 @@ public class demo {
 	
 	static int bharti;
 	
+	double oi;
+	
 	public static void main(String[] args) {
 		
 	} 
