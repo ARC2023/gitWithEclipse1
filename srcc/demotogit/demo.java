@@ -6,7 +6,7 @@ public class demo {
 	int localgit;
 	double gitStaging;
 	
-	int bharti;
+	static int bharti;
 	
 	public static void main(String[] args) {
 		
