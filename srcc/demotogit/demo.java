@@ -15,7 +15,7 @@ public class demo {
 	
 	
 	
-	public void creditCardDetailFromDB() {
+	public static void creditCardDetailFromDB() {
 		
 	}
 	
