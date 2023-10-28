@@ -8,8 +8,15 @@ public class demo {
 	
 	static int bharti;
 	
+	
 	public static void main(String[] args) {
 		
 	} 
+	
+	
+	
+	public void creditCardDetailFromDB() {
+		
+	}
 	
 }
